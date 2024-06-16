@@ -9,7 +9,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.options import Options
-
+ 
 # Atenção: Instale as dependências: pip install -r requirements.txt
 # Verifique se o Selenium está instalado: pip show selenium
 # Atualize o selenium: pip install --upgrade selenium
